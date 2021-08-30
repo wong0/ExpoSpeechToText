@@ -2,11 +2,12 @@
 
 ## Setup
 
-1. Install dependencies.
+### 1. Install dependencies.
 
 `yarn install`
 
-2. Build for each platform separately.
+
+### 2. Build for each platform separately.
 
 To build for Android:
 `expo run:android`
@@ -14,10 +15,11 @@ To build for Android:
 To build for iOS:
 `expo run:ios`
 
-3. Start Dev Client.
+
+### 3. Start Dev Client.
 
 `expo start --dev-client`
 
 
-Reference:
+### References
 - https://docs.expo.dev/clients/getting-started/ (Last read: 31/08/2021)
